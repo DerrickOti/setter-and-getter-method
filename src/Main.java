@@ -8,6 +8,7 @@ public class Main {
         System.out.println("width of the rectangle is: "+rectangle.getWidth(12.0));
         System.out.println("Area of the rectangle is: "+rectangle.getArea(2));
         System.out.println("Perimeter of the rectangle is: "+rectangle.getPerimeter(2));
+        System.out.println("Thank you!!!")
 
     }
 }
